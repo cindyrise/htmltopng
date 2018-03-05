@@ -1,6 +1,7 @@
-# tip
+## tips
+
 1.https://github.com/linwalker/render-html-to-pdf (html--pdf) （推荐png--》pdf）
-==============================================
+
 2.https://github.com/SuperNaturalGit/HtmlToPdf (svg-canvas-pdf)
 
 ```
